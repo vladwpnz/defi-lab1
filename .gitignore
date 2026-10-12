@@ -1,0 +1,12 @@
+
+node_modules/
+
+.env
+.env.*
+!.env.example
+
+wallet.json
+recipient.json
+transaction.json
+
+*.log
